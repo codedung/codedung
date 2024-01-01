@@ -4,7 +4,7 @@
 
 
 ### About Me
-<a href="https://velog.io/@seasun93/series" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+<a href="https://code-dung.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 <a href="mailto:dungdung9376@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 ### Stacks
